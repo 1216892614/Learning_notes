@@ -719,4 +719,3 @@ WHERE manager_id>102
 GROUP BY manager_id
 HAVING MIN(salary)>5000;
 ```
-
