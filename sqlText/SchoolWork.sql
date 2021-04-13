@@ -86,7 +86,7 @@ WHERE Grade > EXISTS(
         WHERE ClassName = 'English'
         )
     );
-#13.
+#13.Review
 SELECT StudentId,StudentName
 FROM student
 WHERE StudentId IN (
@@ -95,7 +95,7 @@ WHERE StudentId IN (
     WHERE ClassId = EXISTS (
         SELECT ClassId
         FROM class
-        WHERE ClassMangeTeacher = 'Wang_One' OR ClassMangeTeacher = 'Wang_Two'
+        WHERE ClassMangeTeacher = 'Wang_One' AND ClassMangeTeacher = 'Wang_Two'
         ));
 #14.
 SELECT StudentName,StudentDeptmentId
