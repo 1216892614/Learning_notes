@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "a49da455b8a52e94",
+    "type": "split",
+    "children": [
+      {
+        "id": "3475735f0c0d9cd7",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65d5c23c0c923ae2",
+    "type": "split",
+    "children": [
+      {
+        "id": "256f153b2664f5e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c4546c9fa5a4d33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6c624bf1fc82f59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "692d5220b4d8926a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b249dc1820f090e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd8767db9a16f340",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3475735f0c0d9cd7",
+  "lastOpenFiles": [
+    "image/3DLevelSet.png",
+    "未命名.md",
+    "现代计算机图形学入门.md"
+  ]
+}
